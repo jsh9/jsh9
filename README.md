@@ -13,3 +13,6 @@
    - [ChatGPT to Markdown](https://github.com/jsh9/chatgpt-to-markdown): Download the ChatGPT Q&A page into a markdown file
    - [Zoom Toggler](https://github.com/jsh9/chrome-zoom-toggler): One-click toggle between two customizable browser zoom levels
    - [Tab Duplicator](https://github.com/jsh9/chrome-tab-duplicator): Duplicate Chrome or Edge tabs with a keyboard shortcut
+
+* Miscellaneous
+   - [Caltech-beamer-theme](https://github.com/jsh9/Caltech-beamer-theme): Caltech LaTeX (beamer) template for presentations, adopted by Overleaf
