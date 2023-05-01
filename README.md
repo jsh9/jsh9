@@ -14,7 +14,7 @@
    - [Zoom Toggler](https://github.com/jsh9/chrome-zoom-toggler): One-click toggle between two customizable browser zoom levels
    - [Tab Duplicator](https://github.com/jsh9/chrome-tab-duplicator): Duplicate Chrome or Edge tabs with a keyboard shortcut
    - [Tab Merger Splitter](https://github.com/jsh9/chrome-tab-merger-splitter): Split and merge browser tabs with keyboard shortcuts
-   - [Media Control](https://github.com/jsh9/chrome-media-control): Control video/audio playback in Chrome/Edge with keyboard shortcuts
+   - [Media Controller](https://github.com/jsh9/chrome-media-controller): Control video/audio playback in Chrome/Edge with keyboard shortcuts
 
 * Miscellaneous
    - [Caltech-beamer-theme](https://github.com/jsh9/Caltech-beamer-theme): Caltech LaTeX (beamer) template for presentations, adopted by Overleaf
