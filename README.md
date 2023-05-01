@@ -2,12 +2,20 @@
 
 * Seismology stuff
    - [PySeismoSoil](https://github.com/jsh9/PySeismoSoil): A Python library for performing 1D seismic site response analysis
+      + [![Downloads](https://static.pepy.tech/badge/pyseismosoil)](https://pepy.tech/project/pyseismosoil)
+      + [![Downloads](https://static.pepy.tech/badge/pyseismosoil/month)](https://pepy.tech/project/pyseismosoil)
    - [SeismoSoil](https://github.com/jsh9/SeismoSoil): Software with GUI for 1D seismic site response analysis (with [user manual](https://github.com/jsh9/SeismoSoil-manual/blob/master/SeismoSoil_manual.pdf))
    - [fast-konno-ohmachi](https://github.com/jsh9/fast-konno-ohmachi): A Python library that performs [Konno-Ohmachi filtering](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/88/1/228/102764/) very fast
+      + [![Downloads](https://static.pepy.tech/badge/fast-konno-ohmachi)](https://pepy.tech/project/fast-konno-ohmachi)
+      + [![Downloads](https://static.pepy.tech/badge/fast-konno-ohmachi/month)](https://pepy.tech/project/fast-konno-ohmachi) 
    
 * Other Python libraries
    - [readable-number](https://github.com/jsh9/readable-number): A Python library to print numbers in human readable format
+      + [![Downloads](https://static.pepy.tech/badge/readable-number)](https://pepy.tech/project/readable-number)
+      + [![Downloads](https://static.pepy.tech/badge/readable-number/month)](https://pepy.tech/project/readable-number) 
    - [python-plot-utils](https://github.com/jsh9/python-plot-utils): A Python library for (static) data visualization
+      + [![Downloads](https://static.pepy.tech/badge/plot-utils)](https://pepy.tech/project/plot-utils)
+      + [![Downloads](https://static.pepy.tech/badge/plot-utils/month)](https://pepy.tech/project/plot-utils) 
    
 * Chrome/Edge extensions
    - [ChatGPT to Markdown](https://github.com/jsh9/chatgpt-to-markdown): Download the ChatGPT Q&A page into a markdown file
