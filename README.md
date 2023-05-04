@@ -9,7 +9,7 @@
    
 * Other Python libraries
    - [readable-number](https://github.com/jsh9/readable-number): A Python library to print numbers in human readable format
-      + [![Downloads](https://static.pepy.tech/personalized-badge/readable-number?period=total&units=international_system&left_color=brightgreen&right_color=grey&left_text=Downloads)](https://pepy.tech/project/readable-number) [![Downloads](https://static.pepy.tech/personalized-badge/readable-number?period=month&units=international_system&left_color=brightgreen&right_color=grey&left_text=Downloads/month)](https://pepy.tech/project/readable-number)
+      + [![Downloads](https://static.pepy.tech/personalized-badge/readable-number?period=total&units=international_system&left_color=green&right_color=grey&left_text=Downloads)](https://pepy.tech/project/readable-number) [![Downloads](https://static.pepy.tech/personalized-badge/readable-number?period=month&units=international_system&left_color=green&right_color=grey&left_text=Downloads/month)](https://pepy.tech/project/readable-number)
    - [python-plot-utils](https://github.com/jsh9/python-plot-utils): A Python library for (static) data visualization
       + [![Downloads](https://static.pepy.tech/personalized-badge/plot-utils?period=total&units=international_system&left_color=red&right_color=grey&left_text=Downloads)](https://pepy.tech/project/plot-utils) [![Downloads](https://static.pepy.tech/personalized-badge/plot-utils?period=month&units=international_system&left_color=red&right_color=grey&left_text=Downloads/month)](https://pepy.tech/project/plot-utils)
    
