@@ -7,7 +7,9 @@
    - [fast-konno-ohmachi](https://github.com/jsh9/fast-konno-ohmachi): A Python library that performs [Konno-Ohmachi filtering](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/88/1/228/102764/) very fast
       + [![Downloads](https://static.pepy.tech/personalized-badge/fast-konno-ohmachi?period=total&units=international_system&left_color=orange&right_color=grey&left_text=Downloads)](https://pepy.tech/project/fast-konno-ohmachi) [![Downloads](https://static.pepy.tech/personalized-badge/fast-konno-ohmachi?period=month&units=international_system&left_color=orange&right_color=grey&left_text=Downloads/month)](https://pepy.tech/project/fast-konno-ohmachi)
    
-* **Other Python libraries**
+* **Other Python projects**
+   - [Cercis](https://github.com/jsh9/cercis): A configurable Python code formatter, based on [Black](https://github.com/psf/black/)
+      + [![Downloads](https://static.pepy.tech/personalized-badge/cercis?period=total&units=international_system&left_color=blue&right_color=grey&left_text=Downloads)](https://pepy.tech/project/cercis) [![Downloads](https://static.pepy.tech/personalized-badge/cercis?period=month&units=international_system&left_color=blue&right_color=grey&left_text=Downloads/month)](https://pepy.tech/project/cercis) 
    - [readable-number](https://github.com/jsh9/readable-number): A Python library to print numbers in human readable format
       + [![Downloads](https://static.pepy.tech/personalized-badge/readable-number?period=total&units=international_system&left_color=green&right_color=grey&left_text=Downloads)](https://pepy.tech/project/readable-number) [![Downloads](https://static.pepy.tech/personalized-badge/readable-number?period=month&units=international_system&left_color=green&right_color=grey&left_text=Downloads/month)](https://pepy.tech/project/readable-number)
    - [python-plot-utils](https://github.com/jsh9/python-plot-utils): A Python library for (static) data visualization
