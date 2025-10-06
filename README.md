@@ -3,6 +3,7 @@
 * **Passion Projects**
    - [pydoclint](https://github.com/jsh9/pydoclint): A Python docstring linter that checks arguments, returns, yields, and raises sections
       + [![Downloads](https://static.pepy.tech/personalized-badge/pydoclint?period=total&units=international_system&left_color=yellowgreen&right_color=grey&left_text=Downloads)](https://pepy.tech/project/pydoclint) [![Downloads](https://static.pepy.tech/personalized-badge/pydoclint?period=month&units=international_system&left_color=yellowgreen&right_color=grey&left_text=Downloads/month)](https://pepy.tech/project/pydoclint)
+   - [format-docstring](https://github.com/jsh9/format-docstring): A comprehensive Python docstring formatter (for numpy style docstrings)
    - [blank-line-after-blocks](https://github.com/jsh9/blank-line-after-blocks): A Python code formatter that adds blank lines after indented blocks
      + [![PyPI Downloads](https://static.pepy.tech/personalized-badge/blank-line-after-blocks?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=Downloads)](https://pepy.tech/projects/blank-line-after-blocks) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/blank-line-after-blocks?period=month&units=international_system&left_color=BLACK&right_color=GREEN&left_text=Downloads/month)](https://pepy.tech/projects/blank-line-after-blocks)
    - [Cercis](https://github.com/jsh9/cercis): A configurable Python code formatter, based on [Black](https://github.com/psf/black/)
@@ -23,6 +24,7 @@
    - [Caltech-beamer-theme](https://github.com/jsh9/Caltech-beamer-theme): Caltech LaTeX (beamer) template for presentations, adopted by Overleaf
 
 * **Chrome/Edge extensions**
+   - [ChatGPT to markdown](https://github.com/jsh9/chatgpt-to-markdown): Save ChatGPT transcripts as markdown files to hard drive
    - [Zoom Toggler](https://github.com/jsh9/chrome-zoom-toggler): One-click toggle between two customizable browser zoom levels
    - [Tab Duplicator](https://github.com/jsh9/chrome-tab-duplicator): Duplicate Chrome or Edge tabs with a keyboard shortcut
    - [Tab Merger Splitter](https://github.com/jsh9/chrome-tab-merger-splitter): Split and merge browser tabs with keyboard shortcuts
