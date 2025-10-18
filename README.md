@@ -5,6 +5,7 @@
       + [![Downloads](https://static.pepy.tech/personalized-badge/pydoclint?period=total&units=international_system&left_color=yellowgreen&right_color=grey&left_text=Downloads)](https://pepy.tech/project/pydoclint) [![Downloads](https://static.pepy.tech/personalized-badge/pydoclint?period=month&units=international_system&left_color=yellowgreen&right_color=grey&left_text=Downloads/month)](https://pepy.tech/project/pydoclint)
    - [format-docstring](https://github.com/jsh9/format-docstring): A comprehensive Python docstring formatter (for numpy style docstrings)
      + [![PyPI Downloads](https://static.pepy.tech/personalized-badge/format-docstring?period=total&units=INTERNATIONAL_SYSTEM&left_color=BRIGHTGREEN&right_color=GREY&left_text=Downloads)](https://pepy.tech/projects/format-docstring) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/format-docstring?period=monthly&units=INTERNATIONAL_SYSTEM&left_color=BRIGHTGREEN&right_color=GREY&left_text=Downloads%2Fmonth)](https://pepy.tech/projects/format-docstring)
+   - [format-json](https://github.com/jsh9/format-json): A customizable JSON file formatter 
    - [blank-line-after-blocks](https://github.com/jsh9/blank-line-after-blocks): A Python code formatter that adds blank lines after indented blocks
      + [![PyPI Downloads](https://static.pepy.tech/personalized-badge/blank-line-after-blocks?period=total&units=INTERNATIONAL_SYSTEM&left_color=MAGENTA&right_color=GREY&left_text=Downloads)](https://pepy.tech/projects/blank-line-after-blocks) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/blank-line-after-blocks?period=month&units=international_system&left_color=MAGENTA&right_color=GREY&left_text=Downloads/month)](https://pepy.tech/projects/blank-line-after-blocks)
    - [Cercis](https://github.com/jsh9/cercis): A configurable Python code formatter, based on [Black](https://github.com/psf/black/)
@@ -24,7 +25,7 @@
       + [![Downloads](https://static.pepy.tech/personalized-badge/fast-konno-ohmachi?period=total&units=international_system&left_color=orange&right_color=grey&left_text=Downloads)](https://pepy.tech/project/fast-konno-ohmachi) [![Downloads](https://static.pepy.tech/personalized-badge/fast-konno-ohmachi?period=month&units=international_system&left_color=orange&right_color=grey&left_text=Downloads/month)](https://pepy.tech/project/fast-konno-ohmachi)
    - [Caltech-beamer-theme](https://github.com/jsh9/Caltech-beamer-theme): Caltech LaTeX (beamer) template for presentations, adopted by Overleaf
 
-* **Chrome/Edge extensions**
+* **Chrome/Edge Extensions**
    - [ChatGPT to markdown](https://github.com/jsh9/chatgpt-to-markdown): Save ChatGPT transcripts as markdown files to hard drive
    - [Zoom Toggler](https://github.com/jsh9/chrome-zoom-toggler): One-click toggle between two customizable browser zoom levels
    - [Tab Duplicator](https://github.com/jsh9/chrome-tab-duplicator): Duplicate Chrome or Edge tabs with a keyboard shortcut
